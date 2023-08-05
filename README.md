@@ -1,4 +1,5 @@
-![VisualizaçãoProjetoIndividual](https://github.com/G0lg4rthur/Projeto_IndividualMod04/assets/101434220/8f280c65-f288-4e30-bbf5-7130086203ea)
+![Sem título](https://github.com/G0lg4rthur/Projeto_IndividualMod04/assets/101434220/f91d82b4-166a-42b9-99bc-dbd31827c702)
+
 # Projeto Individual Módulo 4
 ## Contexto
 
