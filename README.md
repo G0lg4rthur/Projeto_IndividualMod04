@@ -1,6 +1,6 @@
 ![VisualizaçãoProjetoIndividual](https://github.com/G0lg4rthur/Projeto_IndividualMod04/assets/101434220/8f280c65-f288-4e30-bbf5-7130086203ea)
 # Projeto Individual Módulo 4
-## Relatório e Análise
+## Contexto
 
 Este projeto é uma simulação da criação de um relatório e uma análise inicial sobre  a produtividade semanal de uma equipe hipotética.
 É importante para o funcionamento da solução que os blocos de código sejam iniciados um por vez e em ordem de cima para baixo, sem pular nenhum destes.
