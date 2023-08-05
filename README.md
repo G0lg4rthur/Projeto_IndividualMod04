@@ -7,7 +7,7 @@ Este projeto é uma simulação da criação de um relatório e uma análise ini
 É importante para o funcionamento da solução que os blocos de código sejam iniciados um por vez e em ordem de cima para baixo, sem pular nenhum destes.
 
 ## Instruções de uso
--Importe as bibliotecas Pandas e Matplotlib
+-Importe as bibliotecas Pandas, Numpy e Matplotlib
 
 -Execute cada bloco do código fornecido  pressionando "shift + enter".
 
