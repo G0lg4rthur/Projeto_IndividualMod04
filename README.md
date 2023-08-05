@@ -6,7 +6,9 @@ Este projeto é uma simulação da criação de um relatório e uma análise ini
 
 ## Instruções de uso
 -Importe as bibliotecas Pandas e Numpy
+
 -Execute cada bloco do código fornecido  pressionando "shift + enter".
+
 -É de suma importância executar todos os blocos e em ordem, caso o contrário erros ocorrerão.
 
 ## Sobre os Dados
